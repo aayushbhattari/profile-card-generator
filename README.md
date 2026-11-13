@@ -1,4 +1,4 @@
-# 🚀 Profile Card Generator
+#  Profile Card Generator
 
 A simple and interactive web application built using **HTML, CSS, and JavaScript** that allows users to generate personalized profile cards by entering their details.
 
