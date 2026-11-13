@@ -54,14 +54,6 @@ While building this project, I practised:
 - Dynamically creating HTML elements.
 - Connecting HTML, CSS, and JavaScript.
 
-## 🔮 Future Improvements
-
-- Add a delete card option.
-- Improve form validation.
-- Allow multiple profile cards.
-- Improve the UI and responsiveness.
-
----
 
 
 
